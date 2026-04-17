@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A Note to My Future Self</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="lockScreen" class="lock-screen">
+    <div class="lock-card">
+      <h1>🔒 Private Page</h1>
+      <p>
+        This page is protected with a password.
+        Enter your password to open your note.
+      </p>
+
+      <input
+        type="password"
+        id="passwordInput"
+        class="lock-input"
+        placeholder="Enter password"
+      />
+
+      <div class="btn-row">
+        <button id="openBtn">Open</button>
+        <button id="themeBtnLock">🌙 Toggle Dark Mode</button>
+      </div>
+
+      <p id="errorText" class="error"></p>
+    </div>
+  </div>
+
+  <div id="mainPage" class="page hidden">
+    <div class="topbar">
+      <button id="themeBtnMain">🌙 Dark Mode</button>
+      <button id="replayBtn">⌨️ Replay Typing</button>
+      <button id="lockBtn">🔒 Lock</button>
+    </div>
+
+    <div class="container">
+      <div class="card">
+        <h1 class="title">💔 A Note to My Future Self</h1>
+        <p class="subtitle">For the version of me that survives this.</p>
+
+        <div id="typedContent" class="content"></div>
+
+        <hr />
+
+        <h2 class="future-title">🌱 A Reply from My Future Self</h2>
+        <div class="future-text">
+If you're reading this, you survived.
+
+You thought this pain would last forever. But slowly, quietly, you started breathing again.
+
+One day, you stopped checking old chats.
+One day, you laughed without thinking of them.
+One day, their name hurt less.
+
+And that’s how you healed.
+Not all at once.
+But piece by piece.
+
+You did not lose yourself forever.
+You found yourself again.
+
+And I am proud of you for staying.
+        </div>
+
+        <div class="footer-note">
+          Made for healing, remembering, and someday smiling at how far you came.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
