@@ -44,12 +44,42 @@ I want to forget you… but I can’t.
 
 And still, I promised myself that I would work on my dreams, whether you are with me or not. We once planned that we would travel together. If you are not with me, then one day I will travel alone. I will still build the life I dreamed of. I can still earn, achieve, and buy the things we talked about. I can do all of that.
 
-But what you broke was my inner child’s dream of a happy family with you.
+But what you broke was my inner child’s dream...
 
-The family love I had always craved.
-The small house decorated by both of us.
-The children.
-That girl inside me is somehow dying.
+I didn’t just love you… I built a whole little world with you in my heart.
+A small house… not very big, but filled with love.
+Walls decorated by us… our pictures, our silly memories, full of our little touches and silly fights and quiet happiness.
+And not just us…
+A big, warm joint family.
+
+Dada dadi sitting together,
+me bringing them chai,
+you teasing me,
+everyone laughing just living happily in our small world…
+
+Festivals together,
+ghar mein noise, happiness, chaos…
+that kind of love I always wanted.
+
+And then… our two little kids 🥺
+running around the house,
+calling you papa,
+holding my dupatta and not letting me go…
+
+I used to imagine all this like a small girl,
+so innocent, so pure…
+
+That I will finally have
+my own little happy family.
+
+But now…
+
+It feels like that small girl inside me is slowly disappearing.
+The one who believed in love like this…
+in forever…
+in “us”.
+
+And that’s what hurts the most.
 
 The girl who never liked wearing traditional clothes was ready to wear a ghunghat for you.
 The girl who did not like villages was ready to live there with you.
@@ -110,7 +140,7 @@ But for the first time in my life, I have lost even that.
 I don’t know what that feeling was between us, but whatever it was, I wished it would stay forever.
 
 How do I explain how much I love you?
-Those moments, those talks, the movie night, the kisses, the hugs, the cuddles, that peace—I can’t find that comfort anywhere else.
+Those moments, those talks, the movie night, the kisses, the hugs, the cuddles, that peace.
 The way I would smile the moment I saw you…
 nothing can replace that now.
 
