@@ -12,7 +12,36 @@ I just want to see you once. Just once. To look at your face, to hug you tightly
 
 I’ve cut myself off from everyone—social media, people, everything. Nothing feels interesting anymore. Not even studies. My days and nights are filled only with thoughts of you.
 
-Doctors are worried about my mental and physical health. I didn’t know loving someone could break you like this.
+Doctors are worried about both my mental and physical health now.
+I never knew that loving someone could break a person like this.
+
+They’ve told me that if things keep getting worse like this, I might not survive.
+That it’s not good for my brain, especially because I already have a history of blood clots from a childhood injury.
+Back then, it wasn’t very serious… but stress would block everything, and I used to faint when it got too intense.
+
+It had all settled with medication.
+But now, suddenly, everything has started again.
+
+These days, I get anxiety attacks.
+I overthink so much that I can’t even control my own thoughts anymore.
+Sometimes it feels like my mind and my body are both slipping out of my control, not listening to me at all.
+
+And honestly… it’s scary.
+
+It almost feels unreal—like how can someone lose control over themselves just because they loved someone this deeply?
+
+And the strangest part is…
+I don’t even want you to know any of this.
+
+Because I know if you did, maybe you would feel relieved that you’re not with me anymore…
+or maybe you would just show sympathy.
+
+And I hate both of those things.
+
+I never wanted sympathy.
+I never wanted pity.
+
+I just wanted to be loved. That’s it.....
 
 I have so many questions, especially about our last call. Why did you do this?
 
@@ -34,9 +63,17 @@ You knew I didn’t have the strength for heartbreak. You promised. Then why?
 
 For the first time in my life, I was truly happy… and you took that away from me.
 
-Now I’m stuck in between—I can’t be yours, but I can’t imagine being anyone else’s either.
+Now I’m stuck in between—
+I can’t be yours, but I can’t imagine being anyone else’s either.
 
-I’m losing myself.
+The thought of someone else taking your place doesn’t just feel wrong… it feels terrifying.
+It almost traumatizes me, because in my mind, I built everything around you—
+a life, a future, dreams I had never even allowed myself to imagine before.
+
+And now, how am I supposed to replace all of that?
+How am I supposed to see someone else where I only ever saw you?
+
+I just can’t.
 
 Even now, when things are this bad, you’re still the most precious person to me.
 
@@ -82,22 +119,62 @@ in “us”.
 And that’s what hurts the most.
 
 The girl who never liked wearing traditional clothes was ready to wear a ghunghat for you.
-The girl who did not like villages was ready to live there with you.
-The girl who never did house chores was ready to cook for you on a chulha.
-The girl who never did anything by herself was ready to do everything for you.
-The loud girl, the girl no one could control, the girl whose anger was impossible to melt—she would calm down just by seeing you.
+The girl who did not like villages was ready to leave everything behind and live there with you.
+The girl who never did house chores was ready to cook for you on a chulha, just to see you smile.
+The girl who never did anything by herself was ready to learn everything, just for you.
+
+The loud girl, the girl no one could control,
+the girl whose anger no one could melt—
+she would go silent, calm, and soft… just by seeing you.
+
+The girl who never adjusted for anyone
+was ready to change her whole world for you.
+
+The girl who always chose herself
+was ready to choose you, again and again, without thinking twice.
+
+The girl who never believed in forever
+started dreaming of forever… only with you.
+
+The girl who never waited for anyone
+started waiting for your calls, your messages, your presence.
+
+The girl who never needed anyone
+somehow started needing you in ways she never understood.
+
+The girl who was strong for everyone
+became soft, vulnerable, and real… only in front of you.
+
+The girl who never feared losing anything
+now lives with the fear of losing you every single day.
+
+The girl who never cried for anyone
+learned what it feels like to break, silently, because of you.
+
+And maybe that’s what love did to her—
+it didn’t just change her…
+
+it turned her into someone
+who gave everything,
+without ever thinking what would happen
+if she lost it all.
 
 I don’t know what you will get in life, but trust me, you lost someone who loved you unconditionally.
 
 I loved only you.
-Not your money.
-Not your looks.
-Nothing else.
+Not your money,
+not your looks,
+not your status,
+not anything this world values.
+
+I loved you in a way
+that had no reason, no condition—
+just you, and everything that came with you.
 
 If you ever asked me why I loved you, I would never be able to explain it properly.
 I loved you because it was you.
 That’s all.
-I loved everything about you—your flaws and your strengths.
+I loved everything about you.
 
 I loved you more than I had ever loved anything, and maybe that is what breaks me the most.
 
@@ -139,10 +216,22 @@ But for the first time in my life, I have lost even that.
 
 I don’t know what that feeling was between us, but whatever it was, I wished it would stay forever.
 
-How do I explain how much I love you?
-Those moments, those talks, the movie night, the kisses, the hugs, the cuddles, that peace.
-The way I would smile the moment I saw you…
-nothing can replace that now.
+How do I even explain how much I love you?
+
+Those moments… those endless talks,
+the movie nights, the kisses, the hugs, the cuddles…
+that peace I only ever felt with you.
+
+And you—
+the way you used to act like a little kid in front of me,
+your silly talks, your innocent smile,
+the way you would forget everything and just be yourself with me…
+
+I would look at you and smile without even realizing it.
+Just seeing you was enough.
+
+And now… nothing, absolutely nothing,
+can ever replace that feeling.
 
 The flashbacks never stop.
 
